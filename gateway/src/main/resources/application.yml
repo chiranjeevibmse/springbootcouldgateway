@@ -1,0 +1,4 @@
+management:
+  endpoint:
+    consul:
+      enabled: true
